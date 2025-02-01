@@ -71,6 +71,7 @@ void showSolutionResults(std::vector<std::vector<std::vector<char>>> res, int so
             printf("\n");
         }
     }
+    printf("solution founded : %d",solCounter);
 }
 
 
